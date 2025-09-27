@@ -50,4 +50,7 @@ rsconnect/
 .Rproj.user
 .Rhistory
 .RData
+.Rprofile
 .Ruserdata
+*.Rproj
+renv/
