@@ -40,7 +40,6 @@ rules <- read_delim(
 actions <- read_yaml("actions.yaml")
 messages <- read_yaml("messages.yaml")
 
-# Define UI for application that draws a histogram
 ui <- fluidPage(
   titlePanel("INCEPT-Albumin glucose management algorithm"),
   sidebarLayout(
@@ -81,7 +80,6 @@ ui <- fluidPage(
   )
 )
 
-# Define server logic required to draw a histogram
 server <- function(input, output) {
   action <- reactive({
     req(input$step, input$current_bgl, input$previous_bgl, input$current_dose)
