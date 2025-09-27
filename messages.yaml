@@ -1,0 +1,111 @@
+1: |
+  STOP INSULIN FOR AT LEAST ONE HOUR
+  Ensure background nutrition or glucose intake
+  Give bolus of 20 ml 50% glucose, recheck BSL. ASK DOCTOR TO REVIEW
+2: |
+  STOP INSULIN FOR AT LEAST ONE HOUR
+  Ensure background nutrition or glucose intake
+  Give bolus of 10 ml 50% glucose, recheck BSL. ASK DOCTOR TO REVIEW
+3: |
+  STOP INSULIN FOR AT LEAST ONE HOUR
+  Ensure background nutrition or glucose intake
+4: |
+  REDUCE DOSE TO 0.5 UNIT/HOUR
+  Ensure background nutrition or glucose intake
+5: |
+  REDUCE DOSE TO 1.0 UNIT/HOUR
+  Ensure background nutrition or glucose intake
+6: |
+  REDUCE DOSE TO 0.5 UNIT/HOUR
+  Ensure background nutrition or glucose intake
+  Give bolus of 10ml 50% glucose, recheck BSL. ASK DOCTOR TO REVIEW
+7: |
+  REDUCE DOSE TO 1.0 UNIT/HOUR
+  Ensure background nutrition or glucose intake
+  Give bolus of 10ml 50% glucose, recheck BSL. ASK DOCTOR TO REVIEW
+8: |
+  NO INSULIN
+  Ensure background nutrition or glucose intake
+  Give bolus of 20 ml 50% glucose, recheck BSL. ASK DOCTOR TO REVIEW
+9: |
+  NO INSULIN
+  Ensure background nutrition or glucose intake
+  Give bolus of 10 ml 50% glucose, recheck BSL. ASK DOCTOR TO REVIEW
+10: |
+  NO INSULIN
+  1 UNIT PER HOUR
+11: ""
+12: |
+  2 UNIT PER HOUR
+13: |
+  3 UNIT PER HOUR
+14: |
+  4 UNIT PER HOUR
+15: |
+  STOP INSULIN FOR AT LEAST ONE HOUR
+16: |
+  Ensure background nutrition or glucose intake
+17: |
+  Plus 1 or 2 units per hour
+18: |
+  Plus optional 1 unit stat dose
+19: |
+  Plus optional 2 unit stat dose
+20: |
+  Plus optional 1 to 2 unit stat dose
+21: |
+  Plus 1 or 2 units per hour plus 1 - 2 units stat dose
+22: |
+  Or maintain current dose
+23: |
+  STOP INSULIN FOR AT LEAST ONE HOUR
+  Ensure background nutrition or glucose intake
+  Give bolus of 20 ml 50% glucose, recheck BSL. ASK DOCTOR TO REVIEW
+24: |
+  STOP INSULIN FOR AT LEAST ONE HOUR
+  Ensure background nutrition or glucose intake
+  Give bolus of 10 ml 50% glucose, recheck BSL. ASK DOCTOR TO REVIEW
+25: |
+  ASK DOCTOR TO REVIEW
+26: |
+  2 units per hour plus optional 1 unit stat dose
+27: |
+  4 units per hour plus optional 1 - 2 unit stat dose
+28: |
+  NO INSULIN
+  Ensure background nutrition or glucose intake
+29: |
+  Plus 1 to 2 unit stat dose
+30: |
+  Plus 2 unit stat dose
+31: |
+  2 units per hour plus optional 1 unit stat dose
+32: |
+  4 units per hour plus optional 1 - 2 units stat dose
+33: |
+  Plus 1 unit stat dose
+34: |
+  Can check in 2 hours if BG and insulin infusion rate and calorie intake stable
+35: |
+  STOP INSULIN FOR AT LEAST ONE HOUR
+  Ensure background nutrition or glucose intake ASK DOCTOR TO REVIEW
+36: |
+  ASK DOCTOR TO REVIEW
+37: |
+  STOP INSULIN IF NOT ALREADY STOPPED
+  Take blood sample for Lab or ABG machine to confirm blood glucose, give bolus of 20 ml 50% glucose as soon as sample taken
+  Recheck BSL in 30 minutes and enter result into the algorithm for patient off insulin.
+  ASK DOCTOR TO REVIEW
+38: |
+  STOP INSULIN IF NOT ALREADY STOPPED
+  Ensure background nutrition or glucose intake Give bolus of 10 ml 50% glucose
+  Recheck BSL in 30 minutes and enter result into the algorithm for patient off insulin.
+  ASK DOCTOR TO REVIEW
+39: |
+  STOP INSULIN IF NOT ALREADY STOPPED
+  Ensure background nutrition or glucose intake
+  Recheck BSL in 30 minutes and enter result into the algorithm for patient off insulin.
+40: |
+  **CONTINUE INSULIN AT CURRENT RATE** (CONTINUE WITH NO INSULIN IF INSULIN ALREADY OFF)
+
+  Recheck BSL in 30 minutes and enter result into the algorithm for patient on or off insulin.

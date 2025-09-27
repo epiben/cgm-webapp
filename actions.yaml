@@ -1,0 +1,244 @@
+1:
+  message: 1
+  calculation: null
+  recheck: "30 and 60 mins"
+2:
+  message: 2
+  calculation: null
+  recheck: "30 and 60 mins"
+3:
+  message: 3
+  calculation: null
+  recheck: "1 hour"
+4:
+  message: 3
+  calculation: null
+  recheck: "30 and 60 mins"
+5:
+  message: 4
+  calculation: null
+  recheck: "30 and 60 mins"
+6:
+  message: 5
+  calculation: null
+  recheck: "30 and 60 mins"
+7:
+  message: 5
+  calculation: null
+  recheck: "1 hour"
+8:
+  message: 6
+  calculation: null
+  recheck: "30 and 60 mins"
+9:
+  message: 7
+  calculation: null
+  recheck: "30 and 60 mins"
+10:
+  message: null
+  calculation: 1
+  recheck: "1 hour"
+11:
+  message: null
+  calculation: 1
+  recheck: "1 hour or 2 hours"
+12:
+  message: null
+  calculation: 2
+  recheck: "1 hour"
+13:
+  message: null
+  calculation: 2
+  recheck: "2 hours"
+14:
+  message: null
+  calculation: 3
+  recheck: "1 hour"
+15:
+  message: null
+  calculation: 4
+  recheck: "1 hour"
+16:
+  message: null
+  calculation: 4
+  recheck: "2 hours"
+17:
+  message: 34
+  calculation: 5
+  recheck: "1 hour"
+18:
+  message: null
+  calculation: 5
+  recheck: "2 hours"
+19:
+  message: null
+  calculation: 6
+  recheck: "1 hour"
+20:
+  message: 8
+  calculation: null
+  recheck: "30 and 60 mins"
+21:
+  message: 9
+  calculation: null
+  recheck: "30 and 60 mins"
+22:
+  message: 10
+  calculation: null
+  recheck: "1 hour"
+23:
+  message: 10
+  calculation: null
+  recheck: "2 hours"
+24:
+  message: 10
+  calculation: null
+  recheck: "4 hours"
+25:
+  message: 11
+  calculation: null
+  recheck: "1 hour"
+26:
+  message: 12
+  calculation: null
+  recheck: "1 hour"
+27:
+  message: 13
+  calculation: null
+  recheck: "1 hour"
+28:
+  message: 14
+  calculation: null
+  recheck: "1 hour"
+29:
+  message: 15
+  calculation: null
+  recheck: "1 hour"
+30:
+  message: 16
+  calculation: 1
+  recheck: "1 hour"
+31:
+  message: 18
+  calculation: 4
+  recheck: "2 hours"
+32:
+  message: 18
+  calculation: 5
+  recheck: "2 hours"
+33:
+  message: 22
+  calculation: 1
+  recheck: "1 hour"
+34:
+  message: 20
+  calculation: 3
+  recheck: "1 hour"
+35:
+  message: 20
+  calculation: 4
+  recheck: "1 hour"
+36:
+  message: 33
+  calculation: 4
+  recheck: "2 hours"
+37:
+  message: 20
+  calculation: 5
+  recheck: "2 hours"
+38:
+  message: 20
+  calculation: 6
+  recheck: "1 hour"
+39:
+  message: null
+  calculation: 7
+  recheck: "30 and 60 mins"
+40:
+  message: 25
+  calculation: 7
+  recheck: "30 and 60 mins"
+41:
+  message: 18
+  calculation: 5
+  recheck: "1 hour"
+42:
+  message: 18
+  calculation: 4
+  recheck: "1 hour"
+43:
+  message: 29
+  calculation: 3
+  recheck: "1 hour"
+44:
+  message: 29
+  calculation: 4
+  recheck: "1 hour"
+45:
+  message: 29
+  calculation: 6
+  recheck: "1 hour"
+46:
+  message: 30
+  calculation: 6
+  recheck: "1 hour"
+47:
+  message: 20
+  calculation: 5
+  recheck: "1 hour"
+48:
+  message: 28
+  calculation: null
+  recheck: "30 and 60 mins"
+49:
+  message: 31
+  calculation: null
+  recheck: "1 hour"
+50:
+  message: 32
+  calculation: null
+  recheck: "1 hour"
+51:
+  message: 23
+  calculation: null
+  recheck: "30 and 60 mins"
+52:
+  message: 24
+  calculation: null
+  recheck: "30 and 60 mins"
+53:
+  message: null
+  calculation: 7
+  recheck: "1 hour"
+54:
+  message: 34
+  calculation: 5
+  recheck: "1 hour or 2 hours"
+55:
+  message: 10
+  calculation: null
+  recheck: "2 hours"
+56:
+  message: 35
+  calculation: null
+  recheck: "30 and 60 minutes"
+57:
+  message: 36
+  calculation: 1
+  recheck: "30 and 60 minutes"
+58:
+  message: 37
+  calculation: null
+  recheck: "30 minutes"
+59:
+  message: 38
+  calculation: null
+  recheck: "30 minutes"
+60:
+  message: 39
+  calculation: null
+  recheck: "30 minutes"
+61:
+  message: 40
+  calculation: null
+  recheck: "30 minutes"

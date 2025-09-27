@@ -1,0 +1,50 @@
+target;step;current_bgl;current_min;current_max;previous_bgl;previous_min;previous_max;change_text;change;change_min;change_max;dose;dose_min;dose_max;action
+Higher range;30-min check;<2.5;0;2.5;;;;;;;;;;;58
+Higher range;30-min check;2.5 - 3.4;2.5;3.4;;;;;;;;;;;59
+Higher range;30-min check;3.5 - 4.4;3.5;4.4;;;;;;;;;;;60
+Higher range;30-min check;>=4.5;4.5;;;;;;;;;;;;61
+Higher range;First BGL;<2.5 ;0;2.5;;;;;;;;;;;20
+Higher range;First BGL;2.5 - 3.4 ;2.5;3.4;;;;;;;;;;;21
+Higher range;First BGL;3.5 - 4.5 ;3.5;4.5;;;;;;;;;;;22 
+Higher range;First BGL;4.6 - 10.0 ;4.6;10.0;;;;;;;;;;;22 
+Higher range;First BGL;10.1 - 12.0 ;10.1;12.0;;;;;;;;;;;25 
+Higher range;First BGL;12.1 - 15.0 ;12.1;15.0;;;;;;;;;;;26 
+Higher range;First BGL;15.1 - 18.0 ;15.1;18.0;;;;;;;;;;;27 
+Higher range;First BGL;>18.0 ;18.1;Inf;;;;;;;;;;;28 
+Higher range;Off insulin;<2.5 ;0;2.5; ;;; ; ;;;0;;;20 
+Higher range;Off insulin;2.5 - 3.4 ;2.5;3.4; ;;; ; ;;;0;;;21 
+Higher range;Off insulin;3.5 - 4.5;3.5;4.5; ;;;decreasing ;<0 ;;-0.1;0;;;21 
+Higher range;Off insulin;3.5 - 4.5;3.5;4.5; ;;;stable or increasing;>=0 ;0;;0;;;22 
+Higher range;Off insulin;4.6-10.0;4.6;10.0;<4.5 or >10.0 ;0;4.4; ; ;;;0;;;22 
+Higher range;Off insulin;4.6-10.0;4.6;10.0;4.5 - 10.0;4.5;10.0; ; ;;;0;;;55
+Higher range;Off insulin;4.6-10.0;4.6;10.0;<4.5 or >10.0 ;10.1;; ; ;;;0;;;22 
+Higher range;Off insulin;10.1 - 12.0 ;10.1;12.0; ;;; ; ;;;0;;;25 
+Higher range;Off insulin;12.1 - 15.0 ;12.1;15.0; ;;; ; ;;;0;;;26 
+Higher range;Off insulin;15.1 - 18.0 ;15.1;18.0; ;;; ; ;;;0;;;27 
+Higher range;Off insulin;>18.0 ;18.1;Inf; ;;; ; ;;;0;;;28 
+Higher range;On insulin;≤2.2 ;0;2.2; ;;; ; ;;; ;;;1
+Higher range;On insulin;2.3 - 4.0 ;2.3;4.0; ;;; ; ;;; ;;;2
+Higher range;On insulin;4.1 - 6.0 ;4.1;6.0;<=6.0 ;0;6.0; ; ;;; ;;;3 
+Higher range;On insulin;4.1 - 6.0 ;4.1;6.0;>6.0 ;6.1;;decrease of more than 1.5 ;< -1.5 ;;-1.5; ;;;2 
+Higher range;On insulin;4.6 - 6.0 ;4.6;6.0;>6.0 ;6.1;;decrease of 1.5 or less ;between -0.1 and -1.5 ;-1.4;-0.1; ;;;3 
+Higher range;On insulin;6.1-7.9 ;6.1;7.9; ;;; ; ;;;<1.5 units/hr ;0;1.5;29 
+Higher range;On insulin;6.1-7.9 ;6.1;7.9; ;;; ; ;;;>1.5 units/hr ;1.6;;53 
+Higher range;On insulin;8.0-10.0 ;8.0;10.0;< 8.0 or > 10.0 ;;7.9; ; ;;; ;;;10 
+Higher range;On insulin;8.0-10.0 ;8.0;10.0;< 8.0 or > 10.0 ;10.1;; ; ;;; ;;;10 
+Higher range;On insulin;8.0-10.0 ;8.0;10.0;8.0 - 10.0 ;8.0;10.0; ; ;;; ;;;54
+Higher range;On insulin;10.1-12.0 ;10.1;12.0;≤ 12.0 ;;12.0;decrease ;<0 ;;-0.1; ;;;17 
+Higher range;On insulin;10.1-12.0 ;10.1;12.0;≤ 12.0 ;;12.0;same or increase;>=0 ;0;; ;;;36 
+Higher range;On insulin;10.1-12.0 ;10.1;12.0;>=12.1 ;12.1;;decrease of 2 or less ;between -0.1 and -2 ;-2.0;-0.1; ;;;32 
+Higher range;On insulin;10.1-12.0 ;10.1;12.0;>12.1 ;12.2;;decrease of more than 2;< -2 ;;-2.1; ;;;33 
+Higher range;On insulin;12.1-14.0 ;12.1;14.0;<12.1 ;;12.0; ; ;;; ;;;34 
+Higher range;On insulin;12.1-14.0 ;12.1;14.0;12.1 -14.0 ;12.1;14.0;same or increase;>=0 ;0;; ;;;35 
+Higher range;On insulin;12.1-13.9 ;12.1;14.0;12.2 -14.0 ;12.2;14.0;decrease of 1 or less ;between -0.1 and -1;-1.0;-0.1; ;;;35 
+Higher range;On insulin;12.1-14.0 ;12.1;14.0;13.2 - 18.0 ;13.2;18;decrease of 1.1 to 3.9 ;between -1.1 and -3.9 ;-3.9;-1.1; ;;;37 
+Higher range;On insulin;12.1-14.0 ;12.1;14.0;16.1 - 18.0 ;16.1;18.0;decrease of 4 or more ;<= -4 ;;-4.0; ;;;33 
+Higher range;On insulin;12.1-14.0 ;12.1;14.0;>18.0 ;18.1;; ; ;;; ;;;33 
+Higher range;On insulin;>14.0 ;14.1;Inf;<12.1 ;;12.0; ; ;;; ;;;38 
+Higher range;On insulin;>14.0 ;14.2;Inf;12.1 -14.0 ;12.1;14.0; ; ;;; ;;;34 
+Higher range;On insulin;>14.0 ;14.3;Inf;>14.0 ;14.1;;increase ;>0 ;0.1;; ;;;38 
+Higher range;On insulin;>14.0 ;14.4;Inf;>14.0 ;14.1;;same or decrease of less than 2.0 ;between 0 and -1.9 ;-1.9;0; ;;;34
+Higher range;On insulin;>14.0 ;14.5;Inf;>14.0 ;14.1;;decrease of 2.0 to 4.0 ;between -2.0 and -4.0 ;-4.0;-2.0; ;;;18 
+Higher range;On insulin;>14.0 ;14.6;Inf;>14.0 ;14.1;;decrease of more than 4.0;< -4 ;;-4.1; ;;;33
